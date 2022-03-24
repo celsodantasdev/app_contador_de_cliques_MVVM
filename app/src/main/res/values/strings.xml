@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppContadorDeCliques_MVVM</string>
+    <string name="button">Button</string>
+    <string name="total_de_cliques">Total de Cliques:</string>
+    <string name="clique_o_mais_r_pido_que_puder">Clique o mais rápido que puder!</string>
+    <string name="clicar">Clicar</string>
+</resources>
